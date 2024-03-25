@@ -2,7 +2,7 @@
 My Username is Gojita.\
 I'm 16 y old C# beginner and i am currently programming my own Gamemaker Game.\
 I'm an apprentice currently.\
-I only programmed in C# and GML but i really want to programm something in Unity after i finished my Gamemaker Game :D \
+I only programmed in C# and GML but i really want to program something in Unity after i finished my Gamemaker Game :D \
 I also did some stuff in SQL. \
 Here are somethings i like : 
 - Video Games
