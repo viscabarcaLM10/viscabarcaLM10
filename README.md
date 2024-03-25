@@ -11,6 +11,7 @@ Here are somethings i like :
 - Football
 - Anime/Manga
 - Did i say Videogames already?
+  
 If you want to ask me something, Here is my Discord Name : **californiagirl**
 
 
